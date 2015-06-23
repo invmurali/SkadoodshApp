@@ -1,0 +1,6 @@
+c:\users\murali.uppangala\documents\visual studio 2013\Projects\SkadooshApp\SkadooshApp\bin\Debug\SkadooshApp.exe.config
+c:\users\murali.uppangala\documents\visual studio 2013\Projects\SkadooshApp\SkadooshApp\bin\Debug\SkadooshApp.exe
+c:\users\murali.uppangala\documents\visual studio 2013\Projects\SkadooshApp\SkadooshApp\bin\Debug\SkadooshApp.pdb
+c:\users\murali.uppangala\documents\visual studio 2013\Projects\SkadooshApp\SkadooshApp\obj\Debug\SkadooshApp.csprojResolveAssemblyReference.cache
+c:\users\murali.uppangala\documents\visual studio 2013\Projects\SkadooshApp\SkadooshApp\obj\Debug\SkadooshApp.exe
+c:\users\murali.uppangala\documents\visual studio 2013\Projects\SkadooshApp\SkadooshApp\obj\Debug\SkadooshApp.pdb
